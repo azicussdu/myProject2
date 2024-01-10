@@ -10,4 +10,9 @@ public class Main {
         System.out.println("its Aziza");
         System.out.println("Added it after splitted into 2 branches");
     }
+
+    public static void someMethod(){
+        Register rm = new Register();
+        rm.registerMe();
+    }
 }
