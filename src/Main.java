@@ -15,4 +15,8 @@ public class Main {
         Register rm = new Register();
         rm.registerMe();
     }
+
+    public static void threeMain(){
+
+    }
 }
