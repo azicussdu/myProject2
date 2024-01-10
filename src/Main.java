@@ -17,4 +17,8 @@ public class Main {
 
         Three th = new Three();
     }
+
+    public static void threeMain(){
+
+    }
 }
