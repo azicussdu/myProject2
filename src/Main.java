@@ -14,5 +14,7 @@ public class Main {
     public static void someMethod(){
         Register rm = new Register();
         rm.registerMe();
+
+        Three th = new Three();
     }
 }
